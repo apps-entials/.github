@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,4 +9,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+<div align="center">
+  <h1>apps-entials👋</h1>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+apps-entials'+GitHub" alt="Typing SVG" /></a>
+
+
 In this organization, I am coding all kinds of apps that interest me. Currently I am working on [jass-entials](https://github.com/apps-entials/jass-entials), an Android app that enables the users to play different Jass variations such as Sidi Barrani, Schieber, and Coiffeur.
+</div>
